@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayrat-gimranov/vacation-wishlist/static/css/main.c509d9df.css",
+    "main.js": "/ayrat-gimranov/vacation-wishlist/static/js/main.646b3ff9.js",
+    "index.html": "/ayrat-gimranov/vacation-wishlist/index.html",
+    "main.c509d9df.css.map": "/ayrat-gimranov/vacation-wishlist/static/css/main.c509d9df.css.map",
+    "main.646b3ff9.js.map": "/ayrat-gimranov/vacation-wishlist/static/js/main.646b3ff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c509d9df.css",
+    "static/js/main.646b3ff9.js"
+  ]
+}
